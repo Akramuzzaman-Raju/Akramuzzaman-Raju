@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Akramuzzaman</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align="right" alt="goofy image" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif">
+<img align="right" alt="goofy image" width="400" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akramuzzaman-raju&label=Profile%20views&color=0e75b6&style=flat" alt="akramuzzaman-raju" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akramuzzaman-raju" alt="akramuzzaman-raju" /></a> </p>
